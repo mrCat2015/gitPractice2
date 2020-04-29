@@ -6,7 +6,7 @@ public class HappyBirthday {
         System.out.println("HappyBirthday B18");
         
         
-        System.out.println("HappyBirthday B18" again, this line is edit from GitHub);
+        System.out.println("HappyBirthday B18 again, this line is edit from GitHub");
             
             
     }
